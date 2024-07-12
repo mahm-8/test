@@ -1,1 +1,1 @@
-//hello myfriend
+int age = 24;
