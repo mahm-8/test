@@ -1,1 +1,1 @@
-//hello myfriend
+// miqdad is cute
